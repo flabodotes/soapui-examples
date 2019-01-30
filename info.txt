@@ -1,0 +1,9 @@
+https://learnsoapui.wordpress.com/2012/05/19/groovy-datasource-teststep-dataloop-teststep-using-groovy-in-soapui/
+
+https://blz.bankingdb.com/
+
+http://www.thomas-bayer.com/axis2/services/BLZService?wsdl
+
+https://www.soapui.org/test-automation/running-functional-tests.html
+
+https://www.soapui.org/scripting-properties/tips-tricks.html
